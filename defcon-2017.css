@@ -1,0 +1,30 @@
+h1 {
+  font-size: 150%;
+  font-style: normal;
+  text-decoration: underline;
+  text-align: center;
+}
+
+h2 {
+  font-size: 125%;
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.abstract {
+  font-style: normal;
+}
+
+.speaker {
+  font-style: normal;
+  font-weight: bold;
+}
+
+.speakerBio {
+  font-style: italic;
+  font-size: 75%;
+}
+
+.datetime {
+  font-style: italic;
+}
